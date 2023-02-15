@@ -1,7 +1,8 @@
 # Clothing-Consultant
 RPA Project : Clothing-Consultant: UiPath
-# Steps:
-## Installing the UiPath Studio Community Edition
+## Steps:
+
+### Installation of UiPath Studio Community Edition
 Let us walk through the steps to install UiPath Studio Community Edition. 
 Let us start by going to the UiPath Community edition page at www.uipath.com/developers/community-edition
 1.	Go to the “Start Trial” or “Get Community Edition” options. 
