@@ -16,7 +16,7 @@ See if you can augment Clothing Consultant to help you pack for a trip. You coul
 ### Motivation
 The motivation was to use UiPath to forecast and suggest clothing that’s appropriate for the day’s weather.This robot will be able to save you valuable time during the day, by checking the weather and recommending something to wear.
 ### Demo
-[Visit this link for Web application](https://.../)
+![Watch the video](https://github.com/argadevidya/RPA-Project-Clothing-Consultant/blob/main/Clothing%20Consultant%20Demo%20Video.mp4)
 ### Steps in the project execution
 -Accept City Name to forecast(Input dialog Activity)
 -Open browser(set browser properties) and search(through type Into Activity)
