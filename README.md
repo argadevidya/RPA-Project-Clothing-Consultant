@@ -26,6 +26,7 @@ The motivation was to use UiPath to forecast and suggest clothing that’s appro
 -Use conditions in flow activity (for example:if temperature<40 then its too cold)
 -use assign activity and String concatenation and show result
 ### Technical Aspect :Dependencies
+![alt text](https://github.com/argadevidya/RPA-Project-Clothing-Consultant/blob/main/dependencies.png)
 ### Installation
 ### Steps:
 #### Step 1: Installation of UiPath Studio Community Edition
