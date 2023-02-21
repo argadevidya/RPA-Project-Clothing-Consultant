@@ -4,8 +4,8 @@ RPA Project : Clothing-Consultant: UiPath
 ### Table of Content
   * [Overview](#overview)
   * [Motivation](#motivation)
-  * [Demo](#demo)
-  * [Steps in the project execution](#Learning-Objective)
+  * [Demo Video](#demo-video)
+  * [Steps in the project execution](#steps-in-the-project-execution)
   * [Technical Aspect](#technical-aspect)
   * [Installation](#installation)
   
