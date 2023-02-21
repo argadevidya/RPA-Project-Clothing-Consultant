@@ -7,9 +7,8 @@ RPA Project : Clothing-Consultant: UiPath
   * [Demo](#demo)
   * [Steps in the project execution](#Learning-Objective)
   * [Technical Aspect](#technical-aspect)
-  * [Technologies Used](#technologies-used)
   * [Installation](#installation)
-  * [Note](#note)
+  
 
 ### Overview 
 This robot will tell you what the weather is going to be in a location, and recommend what you should wear based on the temperature. As an example, if it's rainy outside it'll tell you to bring an umbrella so you don't get wet!
@@ -25,7 +24,8 @@ The motivation was to use UiPath to forecast and suggest clothing that’s appro
 -Use Flowcharts activity and prepare a flowchart using decision flow activity
 -Use conditions in flow activity (for example:if temperature<40 then its too cold)
 -use assign activity and String concatenation and show result
-### Technical Aspect :Dependencies
+### Technical Aspect
+Dependencies:
 ![alt text](https://github.com/argadevidya/RPA-Project-Clothing-Consultant/blob/main/dependencies.png)
 ### Installation
 ### Steps:
