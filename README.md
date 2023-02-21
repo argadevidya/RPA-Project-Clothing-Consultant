@@ -3,7 +3,6 @@ RPA Project : Clothing-Consultant: UiPath
 
 ### Table of Content
   * [Overview](#overview)
-  * [Dataset Information](#dataset)
   * [Motivation](#motivation)
   * [Demo](#demo)
   * [Steps in the project execution](#Learning-Objective)
@@ -17,10 +16,8 @@ This robot will tell you what the weather is going to be in a location, and reco
 See if you can augment Clothing Consultant to help you pack for a trip. You could even have it trigger automatically whenever you book a trip online.
 ### Motivation
 The motivation was to use UiPath to forecast and suggest clothing that’s appropriate for the day’s weather.This robot will be able to save you valuable time during the day, by checking the weather and recommending something to wear.
-
 ### Demo
 [Visit this link for Web application](https://.../)
-
 ### Steps in the project execution
 -Accept City Name to forecast(Input dialog Activity)
 -Open browser(set browser properties) and search(through type Into Activity)
@@ -28,12 +25,9 @@ The motivation was to use UiPath to forecast and suggest clothing that’s appro
 -Use Flowcharts activity and prepare a flowchart using decision flow activity
 -Use conditions in flow activity (for example:if temperature<40 then its too cold)
 -use assign activity and String concatenation and show result
- 
 ### Technical Aspect :Dependencies
 ### Installation
-
 ### Steps:
-
 #### Step 1: Installation of UiPath Studio Community Edition
 Let us walk through the steps to install UiPath Studio Community Edition. 
 Let us start by going to the UiPath Community edition page at www.uipath.com/developers/community-edition
