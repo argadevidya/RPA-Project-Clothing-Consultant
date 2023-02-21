@@ -16,14 +16,18 @@ See if you can augment Clothing Consultant to help you pack for a trip. You coul
 ### Motivation
 The motivation was to use UiPath to forecast and suggest clothing that’s appropriate for the day’s weather.This robot will be able to save you valuable time during the day, by checking the weather and recommending something to wear.
 ### Demo Video
-https://user-images.githubusercontent.com/122998236/220417985-085e13a1-6b3b-4de5-b871-320c13639a26.mp4
+
+
+https://user-images.githubusercontent.com/122998236/220418877-d5a4f4cb-f070-4662-960d-69e2ec72ba84.mp4
+
+
 ### Steps in the project execution
--Accept City Name to forecast(Input dialog Activity)
--Open browser(set browser properties) and search(through type Into Activity)
--Scrape web data for temperatute and weather
--Use Flowcharts activity and prepare a flowchart using decision flow activity
--Use conditions in flow activity (for example:if temperature<40 then its too cold)
--use assign activity and String concatenation and show result
+-Accept City Name to forecast(Input dialog Activity)</br>
+-Open browser(set browser properties) and search(through type Into Activity)</br>
+-Scrape web data for temperatute and weather</br>
+-Use Flowcharts activity and prepare a flowchart using decision flow activity</br>
+-Use conditions in flow activity (for example:if temperature<40 then its too cold)</br>
+-use assign activity and String concatenation and show result</br>
 ### Technical Aspect
 Dependencies:
 ![alt text](https://github.com/argadevidya/RPA-Project-Clothing-Consultant/blob/main/dependencies.png)
