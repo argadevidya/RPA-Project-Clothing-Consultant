@@ -1,5 +1,23 @@
 # Clothing-Consultant
 RPA Project : Clothing-Consultant: UiPath
+
+### Table of Content
+  * [Overview](#overview)
+  * [Dataset Information](#dataset)
+  * [Motivation](#motivation)
+  * [Demo](#demo)
+  * [Steps in the project execution](#Learning-Objective)
+  * [Technical Aspect](#technical-aspect)
+  * [Technologies Used](#technologies-used)
+  * [Installation](#installation)
+  * [Note](#note)
+
+### Overview 
+This robot will tell you what the weather is going to be in a location, and recommend what you should wear based on the temperature. As an example, if it's rainy outside it'll tell you to bring an umbrella so you don't get wet!
+See if you can augment Clothing Consultant to help you pack for a trip. You could even have it trigger automatically whenever you book a trip online.
+### Motivation
+The motivation was to use UiPath to forecast and suggest clothing that’s appropriate for the day’s weather.This robot will be able to save you valuable time during the day, by checking the weather and recommending something to wear.
+### Demo
 ## Steps:
 
 ### Step 1: Installation of UiPath Studio Community Edition
