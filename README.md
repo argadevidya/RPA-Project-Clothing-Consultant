@@ -46,5 +46,7 @@ Let us start by going to the UiPath Community edition page at www.uipath.com/dev
 7.	When you get to the License screen, click on ‘Activate Community Edition’. The licenses for UiPath Studio and Robot will be activated. 
 8.	Congrats! A browser tab should open up indicating that UiPath has been installed. 
 9.	Go to Windows “Start” and look for “UiPath Studio”. Click on it to open the Studio.
-#### Step 2:Download project file,Unzip project folder
-#### Step 3:
+#### Step 2:Download project folder, Unzip project folder
+#### Step 3:Open UiPath Studio and open project file from folder
+#### Step 4:Run main process
+#### Step 5:Enter city name and the result.
