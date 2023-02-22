@@ -48,4 +48,4 @@ Let us start by going to the UiPath Community edition page at www.uipath.com/dev
 #### Step 2:Download project folder, Unzip project folder
 #### Step 3:Open UiPath Studio and open project file from folder
 #### Step 4:Run main process
-#### Step 5:Enter city name and the result.
+#### Step 5:Enter city name and see the result.
