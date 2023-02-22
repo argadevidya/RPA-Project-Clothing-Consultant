@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/122998236/220418877-d5a4f4cb-f070-4662
 
 
 ### Steps in the project execution
--Accept City Name to forecast(Input dialog Activity)</br>
+-Accept City Name to forecast weather(Input dialog Activity)</br>
 -Open browser(set browser properties) and search(through type Into Activity)</br>
 -Scrape web data for temperatute and weather</br>
 -Use Flowcharts activity and prepare a flowchart using decision flow activity</br>
